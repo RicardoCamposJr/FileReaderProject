@@ -1,2 +1,2 @@
-# Projeto_LeitorArquivos
- Projeto de um leitor de arquivos utilizando Inverted Index, muito utilizado na Recuperação da Informação (Information Retrieval).
+# File Reader Project
+A file reader project using Inverted Index, very used in Information Retrieval.
